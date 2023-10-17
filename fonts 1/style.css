@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "ponti";
+    src: url("font/OldStandardTT-Bold.ttf");
+}
+@font-face {
+    font-family:pont standart ;
+    src: url("font/OldStandardTT-Regular.ttf");
+}
+.h1{
+    font-family:"ponti";
+
+}
+.p{
+    font-family: "pont standart";
+    
+}
+.span{
+    font-family: "pont standart";
+}
